@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 🔭 I’m currently working as an Software Engineer. 🗸<br>
-👯 I’m looking to collaborate with other developers to grow together. 🗸<br>
-🌱 I’m currently gaining skills in backend design and languages. 🗸<br>
-💬 Ask me about backend systems. 🗸
+👯 I’m looking to collaborate with other professionals to grow together. 🗸<br>
+🌱 I’m currently gaining skills in Cybersecurity & AI. 🗸<br>
+💬 Ask me about backend systems and AI integrations. 🗸
 
 # 📊 GitHub Stats:
 
