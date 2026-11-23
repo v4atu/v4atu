@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m currently working as an Software Engineer. 🗸<br>
+🔭 I’m currently Jobless. 🗸<br>
 👯 I’m looking to collaborate with other professionals to grow together. 🗸<br>
-🌱 I’m currently gaining skills in Cybersecurity & AI. 🗸<br>
+🌱 I’m currently gaining skills in AWS Cloud. 🗸<br>
 💬 Ask me about backend systems and AI integrations. 🗸
 
 # 📊 GitHub Stats:
